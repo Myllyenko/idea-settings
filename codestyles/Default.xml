@@ -1,5 +1,8 @@
 <code_scheme name="Default" version="173">
   <option name="LINE_SEPARATOR" value="&#10;" />
+  <Properties>
+    <option name="SPACES_AROUND_KEY_VALUE_DELIMITER" value="true" />
+  </Properties>
   <ScalaCodeStyleSettings>
     <option name="classCountToUseImportOnDemand" value="100" />
     <option name="FINALLY_BRACE_FORCE" value="3" />
@@ -10,19 +13,13 @@
     <option name="SD_BLANK_LINE_BEFORE_PARAMETERS" value="true" />
   </ScalaCodeStyleSettings>
   <codeStyleSettings language="Groovy">
-    <option name="RIGHT_MARGIN" value="140" />
+    <option name="RIGHT_MARGIN" value="120" />
     <option name="BRACE_STYLE" value="2" />
     <option name="CLASS_BRACE_STYLE" value="2" />
     <option name="METHOD_BRACE_STYLE" value="2" />
     <option name="SPACE_WITHIN_BRACES" value="false" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="false" />
     <option name="KEEP_SIMPLE_CLASSES_IN_ONE_LINE" value="false" />
-    <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
-      <option name="TAB_SIZE" value="2" />
-      <option name="USE_TAB_CHARACTER" value="true" />
-    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="RIGHT_MARGIN" value="120" />
