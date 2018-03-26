@@ -5,6 +5,11 @@
   </Properties>
   <ScalaCodeStyleSettings>
     <option name="classCountToUseImportOnDemand" value="100" />
+    <option name="importLayout">
+      <array>
+        <option value="all other imports" />
+      </array>
+    </option>
     <option name="FINALLY_BRACE_FORCE" value="3" />
     <option name="TRY_BRACE_FORCE" value="3" />
     <option name="USE_SCALADOC2_FORMATTING" value="false" />
