@@ -8,6 +8,9 @@
     <option name="JD_ADD_BLANK_AFTER_RETURN" value="true" />
     <option name="JD_P_AT_EMPTY_LINES" value="false" />
   </JavaCodeStyleSettings>
+  <Properties>
+    <option name="KEY_VALUE_DELIMITER_CODE" value="1" />
+  </Properties>
   <codeStyleSettings language="Groovy">
     <option name="BRACE_STYLE" value="2" />
     <option name="CLASS_BRACE_STYLE" value="2" />
