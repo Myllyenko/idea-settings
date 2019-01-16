@@ -1,5 +1,7 @@
 <code_scheme name="java-allman" version="173">
   <GroovyCodeStyleSettings>
+    <option name="ALIGN_MULTILINE_LIST_OR_MAP" value="false" />
+    <option name="ALIGN_NAMED_ARGS_IN_MAP" value="false" />
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="100" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="100" />
     <option name="IMPORT_LAYOUT_TABLE">
@@ -32,9 +34,14 @@
     <option name="KEY_VALUE_DELIMITER_CODE" value="1" />
   </Properties>
   <codeStyleSettings language="Groovy">
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="BRACE_STYLE" value="2" />
     <option name="CLASS_BRACE_STYLE" value="2" />
     <option name="METHOD_BRACE_STYLE" value="2" />
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="ALIGN_MULTILINE_RESOURCES" value="false" />
+    <option name="ALIGN_MULTILINE_FOR" value="false" />
+    <option name="WRAP_LONG_LINES" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="KEEP_LINE_BREAKS" value="false" />
