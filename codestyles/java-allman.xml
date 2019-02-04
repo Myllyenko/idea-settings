@@ -1,4 +1,5 @@
 <code_scheme name="java-allman" version="173">
+  <option name="LINE_SEPARATOR" value="&#10;" />
   <GroovyCodeStyleSettings>
     <option name="USE_FLYING_GEESE_BRACES" value="true" />
     <option name="ALIGN_MULTILINE_LIST_OR_MAP" value="false" />
