@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'hazelcast-custom-replication'" />
-    <option name="defaultScopeName" value="Project 'hazelcast-custom-replication'" />
-    <option name="SEARCH_SCOPE" value="Project 'hazelcast-custom-replication'" />
+    <option name="customScope" value="Project 'gradle-ium-plugin'" />
+    <option name="defaultScopeName" value="Project 'gradle-ium-plugin'" />
+    <option name="SEARCH_SCOPE" value="Project 'gradle-ium-plugin'" />
   </component>
 </application>
