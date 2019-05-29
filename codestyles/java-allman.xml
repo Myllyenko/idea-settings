@@ -22,6 +22,7 @@
       <value>
         <emptyLine />
         <package name="" withSubpackages="true" static="true" />
+        <emptyLine />
         <package name="" withSubpackages="true" static="false" />
         <emptyLine />
       </value>
